@@ -1,0 +1,1 @@
+The purpose of this project is to create a webpage with links to different recipes. Should be testing what I've initially learned from TOP on the various parts of just HTML.
